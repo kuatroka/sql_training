@@ -11,6 +11,3 @@ def show_all():
 
     conn.commit()
     conn.close()
-
-
-show_all()
